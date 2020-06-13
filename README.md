@@ -12,4 +12,4 @@
 
 6. Login into admin account and add trains.
 
-7. Create customers/agents and login to book ticket as required.
+7. Create customers/agents and login to book ticket(s) as required.
